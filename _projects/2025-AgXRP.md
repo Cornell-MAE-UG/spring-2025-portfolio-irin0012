@@ -1,25 +1,26 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+title: AgXRP
+description: A Low‑Cost CNC Garden Robot for the Next Generation of Digital Farmers
+technologies: [Autodesk Fusion, Onshape]
+image: /assets/images/agxrp.png
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+**[INTRODUCTION]:**
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+The Agricultural Experiential Robotics Platform (AgXRP) is a pioneering effort to enhance k-12 educational experiences by blending robotics and agriculture. This project strategically targets students traditionally less inclined towards conventional STEM subjects, aiming to boost their engagement by demonstrating the practical applications and interdisciplinary nature of agricultural robotics. 
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+**[OBJECTIVES]:**
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+-Facilitate simple deployment of the AgXRP for non-robotic experts through reduction in design and assembly complexity by strategically replacing bolts, optimizing axis design, building mechanical mounts for sensors.
 
-I was inspired by this old radio when I made this rendering:
+-Integration of new sensors and display (firmware and hardware) such as a time-of-flight sensors, capacitive soil moisture sensors, RGB camera, LCD screen. 
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+-Functional validation of system performance and efficacy as an accessible educational tool through testing with real crop growing and deployment in local 4-H program through testing and feedback from the pilot program in Saratoga County Cornell Cooperative Extension.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+-The AgXRP seeks to establish a global community focused on transforming agricultural education, making STEM concepts tangible, relevant, and impactful for the next generation.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+
+![Hello](https://github.com/Cornell-MAE-UG/spring-2025-portfolio-irin0012/blob/73438cfde4cfc24e55fa3411c22f4ec0c8248044/assets/images/agxrp.png?raw=true)
+
